@@ -1,0 +1,13 @@
+.Error {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.Error p {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.not-found {
+  opacity: 0.5;
+}
